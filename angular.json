@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "angularx-qrcode-poc"
+  "defaultProject": "angularx-qrcode-poc",
+  "cli": {
+    "analytics": "9b8cea8a-962d-4100-85d5-094296e8f010"
+  }
 }
